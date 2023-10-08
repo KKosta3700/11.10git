@@ -2,3 +2,11 @@
 > git branch - показать все ветки
 
 > git checkout -b "name" создание и переход на новую ветку
+
+> git checkout -b "name" создание и переход на новую ветку
+
+> git checkout -b "name" создание и переход на новую ветку
+
+> git checkout -b "name" создание и переход на новую ветку
+
+> git checkout -b "name" создание и переход на новую ветку
